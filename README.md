@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+So ,you reached here ..great ..
+visit my repo.. make yourself comfortable ..
+its just like your **home**
 <!--
 **authoritydmc/authoritydmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
