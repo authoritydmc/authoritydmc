@@ -12,6 +12,6 @@
 <br/>
 
 <!-- Portfolio site link -->
-[![Portfolio Site](https://img.shields.io/badge/Portfolio-00818283.xyz-blue)](https://00818283.xyz)
+[![Portfolio Site](https://img.shields.io/badge/Portfolio-rajlabs.in-blue)](https://rajlabs.in)
 
 <br/>
