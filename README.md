@@ -15,3 +15,5 @@
 [![Portfolio Site](https://img.shields.io/badge/Portfolio-rajlabs.in-blue)](https://rajlabs.in)
 
 <br/>
+
+[![](https://visitcount.itsvg.in/api?id=authoritydmc&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
