@@ -19,7 +19,9 @@ jobs:
           # Options
           user: authoritydmc
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
+          base_hireable: yes
+          base_skip: yes
           base_indepth: yes
           commits_authoring: authoritydmc
           config_octicon: yes
