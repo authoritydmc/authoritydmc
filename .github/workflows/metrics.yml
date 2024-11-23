@@ -39,10 +39,10 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: html,css
           plugin_languages_indepth: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
@@ -56,7 +56,3 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 14
